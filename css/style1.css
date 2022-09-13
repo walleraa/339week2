@@ -30,5 +30,13 @@ body{
      border-color: red;
      border-width: 2px;
      margin: 0px;
+     box-sizing: border-box;
  }
- 
+
+ p{
+     cursor: w-resize;
+     border-radius: 15px;
+     border-style: dotted;
+     margin: 0px 30px;
+     text-align: center;
+ }
