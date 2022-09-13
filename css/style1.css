@@ -9,8 +9,26 @@ body{
     margin-top:15px;
   
  }
- ul li{
+ nav li{
     margin-left: 25px;
     list-style-type: upper-roman;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 15px;
+    border-style: solid;
+    background-color: aqua;
+    border-color: green;
+    width: 20%;
+    margin: 20px;
+ }
+ 
+ img
+ {
+     width: 24%;
+     padding: 10px;
+     border-style: dashed;
+     border-color: red;
+     border-width: 2px;
+     margin: 0px;
  }
  
